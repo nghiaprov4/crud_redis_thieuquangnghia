@@ -1,4 +1,4 @@
-package com.example.crud_redis_phamxuanloc;
+package com.example.crud_redis_thieuquangnghia;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

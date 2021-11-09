@@ -1,7 +1,7 @@
-package com.example.crud_redis_phamxuanloc.controller;
+package com.example.crud_redis_thieuquangnghia.controller;
 
-import com.example.crud_redis_phamxuanloc.model.Employee;
-import com.example.crud_redis_phamxuanloc.repository.EmployeeRepository;
+import com.example.crud_redis_thieuquangnghia.model.Employee;
+import com.example.crud_redis_thieuquangnghia.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

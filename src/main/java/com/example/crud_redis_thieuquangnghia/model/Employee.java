@@ -1,4 +1,4 @@
-package com.example.crud_redis_phamxuanloc.model;
+package com.example.crud_redis_thieuquangnghia.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
